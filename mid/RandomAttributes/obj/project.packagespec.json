@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/tredkar/Documents/GitHub/mid/mid/midorg/midorg.csproj",
-    "projectName": "midorg",
-    "projectPath": "/Users/tredkar/Documents/GitHub/mid/mid/midorg/midorg.csproj",
-    "outputPath": "/Users/tredkar/Documents/GitHub/mid/mid/midorg/obj/",
+    "projectUniqueName": "/Users/tredkar/Documents/GitHub/mid/mid/RandomAttributes/RandomAttributes.csproj",
+    "projectName": "RandomAttributes",
+    "projectPath": "/Users/tredkar/Documents/GitHub/mid/mid/RandomAttributes/RandomAttributes.csproj",
+    "outputPath": "/Users/tredkar/Documents/GitHub/mid/mid/RandomAttributes/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -31,14 +31,6 @@
           "target": "Package",
           "version": "[2.0.3, )",
           "autoReferenced": true
-        },
-        "Newtonsoft.Json": {
-          "target": "Package",
-          "version": "[11.0.2, )"
-        },
-        "RandomNameGeneratorLibrary": {
-          "target": "Package",
-          "version": "[1.2.2, )"
         }
       },
       "imports": [
