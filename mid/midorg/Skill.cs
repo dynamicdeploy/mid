@@ -1,6 +1,6 @@
 ﻿namespace midorg
 {
-    public class User
+    public class Skill
     {
         
     }

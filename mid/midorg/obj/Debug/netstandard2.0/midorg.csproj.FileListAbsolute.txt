@@ -1,0 +1,9 @@
+/Users/tredkar/Documents/GitHub/mid/mid/midorg/bin/Debug/netstandard2.0/midorg.deps.json
+/Users/tredkar/Documents/GitHub/mid/mid/midorg/bin/Debug/netstandard2.0/midorg.dll
+/Users/tredkar/Documents/GitHub/mid/mid/midorg/bin/Debug/netstandard2.0/midorg.pdb
+/Users/tredkar/Documents/GitHub/mid/mid/midorg/obj/Debug/netstandard2.0/midorg.csprojAssemblyReference.cache
+/Users/tredkar/Documents/GitHub/mid/mid/midorg/obj/Debug/netstandard2.0/midorg.csproj.CoreCompileInputs.cache
+/Users/tredkar/Documents/GitHub/mid/mid/midorg/obj/Debug/netstandard2.0/midorg.AssemblyInfoInputs.cache
+/Users/tredkar/Documents/GitHub/mid/mid/midorg/obj/Debug/netstandard2.0/midorg.AssemblyInfo.cs
+/Users/tredkar/Documents/GitHub/mid/mid/midorg/obj/Debug/netstandard2.0/midorg.dll
+/Users/tredkar/Documents/GitHub/mid/mid/midorg/obj/Debug/netstandard2.0/midorg.pdb

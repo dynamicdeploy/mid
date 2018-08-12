@@ -4,7 +4,32 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="mid.sln" t="IncludeFlat" />
       <e p="midorg" t="IncludeRecursive">
+        <e p="AcceptanceType.cs" t="Include" />
+        <e p="Address.cs" t="Include" />
+        <e p="Announcement.cs" t="Include" />
+        <e p="AttendanceType.cs" t="Include" />
+        <e p="Attendee.cs" t="Include" />
+        <e p="AutomaticRepliesSetting.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Building.cs" t="Include" />
+        <e p="Calendar.cs" t="Include" />
+        <e p="CharityGroup.cs" t="Include" />
+        <e p="CommunicationInfo.cs" t="Include" />
+        <e p="ContactBook.cs" t="Include" />
+        <e p="Content.cs" t="Include" />
+        <e p="DateTimeTimeZone.cs" t="Include" />
+        <e p="Department.cs" t="Include" />
+        <e p="Education.cs" t="Include" />
+        <e p="Event.cs" t="Include" />
+        <e p="Floor.cs" t="Include" />
+        <e p="GpsLocation.cs" t="Include" />
+        <e p="Headcount.cs" t="Include" />
+        <e p="IResource.cs" t="Include" />
+        <e p="LocaleInfo.cs" t="Include" />
+        <e p="Location.cs" t="Include" />
+        <e p="Mailbox.cs" t="Include" />
+        <e p="MailboxSettings.cs" t="Include" />
+        <e p="Mention.cs" t="Include" />
         <e p="midorg.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -14,8 +39,22 @@
           </e>
         </e>
         <e p="Organization.cs" t="Include" />
+        <e p="Patent.cs" t="Include" />
+        <e p="PatterenedRecurrrence.cs" t="Include" />
         <e p="Person.cs" t="Include" />
-        <e p="User.cs" t="Include" />
+        <e p="Photo.cs" t="Include" />
+        <e p="ProductLicense.cs" t="Include" />
+        <e p="Publication.cs" t="Include" />
+        <e p="RecurrencePattern.cs" t="Include" />
+        <e p="RecurrenceRange.cs" t="Include" />
+        <e p="ResourceUsageStatus.cs" t="Include" />
+        <e p="Skill.cs" t="Include" />
+        <e p="Topic.cs" t="Include" />
+        <e p="Workspace.cs" t="Include" />
+        <e p="WorkspaceCapabilityType.cs" t="Include" />
+        <e p="WorkspaceStatusInfo.cs" t="Include" />
+        <e p="WorkspaceStatusType.cs" t="Include" />
+        <e p="WorkspaceType.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>

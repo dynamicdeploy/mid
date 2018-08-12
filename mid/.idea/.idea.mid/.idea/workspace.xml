@@ -10,15 +10,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Organization.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/midorg/Organization.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="240">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="21" />
               <folding>
-                <marker date="1534034119202" expanded="true" signature="16:71" ph="{...}" />
-                <marker date="1534034119202" expanded="true" signature="48:69" ph="{...}" />
+                <marker date="1534056293300" expanded="true" signature="50:501" ph="{...}" />
+                <marker date="1534056293300" expanded="true" signature="82:499" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -27,24 +27,133 @@
       <file leaf-file-name="Person.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/midorg/Person.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="128">
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               <folding>
-                <marker date="1534034151901" expanded="true" signature="16:65" ph="{...}" />
-                <marker date="1534034151901" expanded="true" signature="42:63" ph="{...}" />
+                <marker date="1534056293298" expanded="false" signature="6:47" ph="..." />
+                <marker date="1534056293298" expanded="true" signature="64:2091" ph="{...}" />
+                <marker date="1534056293298" expanded="true" signature="90:2089" ph="{...}" />
+                <marker date="1534056293298" expanded="true" signature="1250:1356" ph="/// Instant message addresses with their respective providers ... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/midorg/User.cs">
+      <file leaf-file-name="MailboxSettings.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midorg/MailboxSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1534054228248" expanded="true" signature="16:240" ph="{...}" />
+                <marker date="1534054228248" expanded="true" signature="51:238" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommunicationInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midorg/CommunicationInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+              <folding>
+                <marker date="1534056017872" expanded="true" signature="51:370" ph="{...}" />
+                <marker date="1534056017872" expanded="true" signature="88:368" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactBook.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midorg/ContactBook.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
               <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding>
-                <marker date="1534034161469" expanded="true" signature="16:63" ph="{...}" />
-                <marker date="1534034161469" expanded="true" signature="40:61" ph="{...}" />
+                <marker date="1534052518065" expanded="true" signature="16:70" ph="{...}" />
+                <marker date="1534052518065" expanded="true" signature="47:68" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Event.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midorg/Event.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+              <folding>
+                <marker date="1534056293296" expanded="true" signature="6:47" ph="..." />
+                <marker date="1534056293296" expanded="true" signature="64:2385" ph="{...}" />
+                <marker date="1534056293296" expanded="true" signature="98:164" ph="{...}" />
+                <marker date="1534056293296" expanded="true" signature="197:289" ph="{...}" />
+                <marker date="1534056293296" expanded="true" signature="316:404" ph="{...}" />
+                <marker date="1534056293296" expanded="true" signature="409:533" ph="/// https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/resources/event ... " />
+                <marker date="1534056293296" expanded="true" signature="556:2383" ph="{...}" />
+                <marker date="1534056293296" expanded="true" signature="1113:1180" ph="/// Low, Normal, High. ... " />
+                <marker date="1534056293296" expanded="true" signature="1414:1503" ph="/// Normal, Personal, Private, Confidential. ... " />
+                <marker date="1534056293296" expanded="true" signature="1570:1777" ph="/// The event type: SingleInstance = 0, Occurrence = 1, Exception = 2, SeriesMaster = 3. Possible values are: Sin ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Workspace.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midorg/Workspace.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1040">
+              <caret line="66" column="33" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+              <folding>
+                <marker date="1534056293302" expanded="false" signature="6:48" ph="..." />
+                <marker date="1534056293302" expanded="true" signature="66:2760" ph="{...}" />
+                <marker date="1534056293302" expanded="true" signature="104:515" ph="{...}" />
+                <marker date="1534056293302" expanded="true" signature="119:186" ph="/// Only for the Admin ... " />
+                <marker date="1534056293302" expanded="true" signature="216:273" ph="/// Everyone ... " />
+                <marker date="1534056293302" expanded="true" signature="302:376" ph="/// Limited to specific roles ... " />
+                <marker date="1534056293302" expanded="true" signature="411:485" ph="/// LImited to specific users ... " />
+                <marker date="1534056293302" expanded="true" signature="556:2758" ph="{...}" />
+                <marker date="1534056293302" expanded="true" signature="1663:1798" ph="/// https://lasithapetthawadu.wordpress.com/2014/02/24/using-vector-svg-graphics-in-c-net/ ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Attendee.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/midorg/Attendee.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding>
+                <marker date="1534056293294" expanded="true" signature="31:393" ph="{...}" />
+                <marker date="1534056293294" expanded="true" signature="59:391" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Floor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midorg/Floor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <marker date="1534056068704" expanded="true" signature="6:47" ph="..." />
+                <marker date="1534056068704" expanded="true" signature="69:288" ph="{...}" />
+                <marker date="1534056068704" expanded="true" signature="94:286" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IResource.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midorg/IResource.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+              <folding>
+                <marker date="1534056293292" expanded="true" signature="6:47" ph="..." />
+                <marker date="1534056293292" expanded="true" signature="69:905" ph="{...}" />
+                <marker date="1534056293292" expanded="true" signature="102:903" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -58,15 +167,94 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/midorg/Organization.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/midorg/Person.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/midorg/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Department.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Skill.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Content.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Location.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Calendar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/ContactBook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Topic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Headcount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Mailbox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Mention.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Education.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Patent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Publication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/CharityGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/AcceptanceType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/GpsLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Workspace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Announcement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Attendee.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/AttendanceType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/AutomaticRepliesSetting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Building.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/WorkspaceCapabilityType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/CommunicationInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/DateTimeTimeZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Event.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Floor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/IResource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/LocaleInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/MailboxSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/ProductLicense.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/PatterenedRecurrrence.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/Photo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/RecurrencePattern.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/RecurrenceRange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/ResourceUsageStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/WorkspaceStatusType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/WorkspaceStatusInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/midorg/WorkspaceType.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/midorg/Class1.cs" />
-        <option value="$PROJECT_DIR$/midorg/Organization.cs" />
-        <option value="$PROJECT_DIR$/midorg/Person.cs" />
+        <option value="$PROJECT_DIR$/midorg/Department.cs" />
+        <option value="$PROJECT_DIR$/midorg/Skill.cs" />
+        <option value="$PROJECT_DIR$/midorg/Content.cs" />
+        <option value="$PROJECT_DIR$/midorg/Location.cs" />
+        <option value="$PROJECT_DIR$/midorg/ContactBook.cs" />
+        <option value="$PROJECT_DIR$/midorg/Topic.cs" />
+        <option value="$PROJECT_DIR$/midorg/Headcount.cs" />
+        <option value="$PROJECT_DIR$/midorg/Mailbox.cs" />
+        <option value="$PROJECT_DIR$/midorg/Mention.cs" />
+        <option value="$PROJECT_DIR$/midorg/Education.cs" />
+        <option value="$PROJECT_DIR$/midorg/Patent.cs" />
+        <option value="$PROJECT_DIR$/midorg/Publication.cs" />
+        <option value="$PROJECT_DIR$/midorg/CharityGroup.cs" />
+        <option value="$PROJECT_DIR$/midorg/AcceptanceType.cs" />
+        <option value="$PROJECT_DIR$/midorg/Address.cs" />
+        <option value="$PROJECT_DIR$/midorg/Announcement.cs" />
+        <option value="$PROJECT_DIR$/midorg/AttendanceType.cs" />
+        <option value="$PROJECT_DIR$/midorg/AutomaticRepliesSetting.cs" />
+        <option value="$PROJECT_DIR$/midorg/DateTimeTimeZone.cs" />
+        <option value="$PROJECT_DIR$/midorg/GpsLocation.cs" />
+        <option value="$PROJECT_DIR$/midorg/LocaleInfo.cs" />
+        <option value="$PROJECT_DIR$/midorg/MailboxSettings.cs" />
+        <option value="$PROJECT_DIR$/midorg/ProductLicense.cs" />
+        <option value="$PROJECT_DIR$/midorg/PatterenedRecurrrence.cs" />
+        <option value="$PROJECT_DIR$/midorg/Photo.cs" />
+        <option value="$PROJECT_DIR$/midorg/RecurrencePattern.cs" />
+        <option value="$PROJECT_DIR$/midorg/RecurrenceRange.cs" />
+        <option value="$PROJECT_DIR$/midorg/ResourceUsageStatus.cs" />
         <option value="$PROJECT_DIR$/midorg/User.cs" />
+        <option value="$PROJECT_DIR$/midorg/Resource.cs" />
+        <option value="$PROJECT_DIR$/midorg/WorkspaceCapabilityType.cs" />
+        <option value="$PROJECT_DIR$/midorg/WorkspaceStatusInfo.cs" />
+        <option value="$PROJECT_DIR$/midorg/WorkspaceType.cs" />
+        <option value="$PROJECT_DIR$/midorg/Building.cs" />
+        <option value="$PROJECT_DIR$/midorg/Calendar.cs" />
+        <option value="$PROJECT_DIR$/midorg/CommunicationInfo.cs" />
+        <option value="$PROJECT_DIR$/midorg/Floor.cs" />
+        <option value="$PROJECT_DIR$/midorg/Person.cs" />
+        <option value="$PROJECT_DIR$/midorg/Organization.cs" />
+        <option value="$PROJECT_DIR$/midorg/IResource.cs" />
+        <option value="$PROJECT_DIR$/midorg/Event.cs" />
+        <option value="$PROJECT_DIR$/midorg/Workspace.cs" />
+        <option value="$PROJECT_DIR$/midorg/Attendee.cs" />
       </list>
     </option>
   </component>
@@ -139,11 +327,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534033838997</updated>
       <workItem from="1534033841136" duration="325000" />
+      <workItem from="1534052085835" duration="4011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="325000" />
+    <option name="totallyTimeSpent" value="4336000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -159,25 +348,26 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32947975" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50073636" side_tool="true" weight="0.32803467" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4992636" weight="0.32658958" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4992636" weight="0.32947975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -189,20 +379,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/midorg/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/midorg/Organization.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding>
-            <marker date="1534034119202" expanded="true" signature="16:71" ph="{...}" />
-            <marker date="1534034119202" expanded="true" signature="48:69" ph="{...}" />
+            <marker date="1534056293300" expanded="true" signature="50:501" ph="{...}" />
+            <marker date="1534056293300" expanded="true" signature="82:499" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -211,20 +394,514 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <marker date="1534034151901" expanded="true" signature="16:65" ph="{...}" />
-            <marker date="1534034151901" expanded="true" signature="42:63" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/midorg/User.cs">
+    <entry file="file://$PROJECT_DIR$/midorg/Person.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding>
-            <marker date="1534034161469" expanded="true" signature="16:63" ph="{...}" />
-            <marker date="1534034161469" expanded="true" signature="40:61" ph="{...}" />
+            <marker date="1534056293298" expanded="false" signature="6:47" ph="..." />
+            <marker date="1534056293298" expanded="true" signature="64:2091" ph="{...}" />
+            <marker date="1534056293298" expanded="true" signature="90:2089" ph="{...}" />
+            <marker date="1534056293298" expanded="true" signature="1250:1356" ph="/// Instant message addresses with their respective providers ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/midorg/Department.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052233270" expanded="true" signature="16:69" ph="{...}" />
+            <marker date="1534052233270" expanded="true" signature="46:67" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Skill.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052280418" expanded="true" signature="16:64" ph="{...}" />
+            <marker date="1534052280418" expanded="true" signature="41:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Content.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052302971" expanded="true" signature="16:66" ph="{...}" />
+            <marker date="1534052302971" expanded="true" signature="43:64" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Location.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052315808" expanded="true" signature="16:67" ph="{...}" />
+            <marker date="1534052315808" expanded="true" signature="44:65" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Topic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052526029" expanded="true" signature="16:64" ph="{...}" />
+            <marker date="1534052526029" expanded="true" signature="41:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Headcount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052542264" expanded="true" signature="16:68" ph="{...}" />
+            <marker date="1534052542264" expanded="true" signature="45:66" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Mailbox.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052573553" expanded="true" signature="16:66" ph="{...}" />
+            <marker date="1534052573553" expanded="true" signature="43:64" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Mention.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052583005" expanded="true" signature="16:66" ph="{...}" />
+            <marker date="1534052583005" expanded="true" signature="43:64" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Education.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052611142" expanded="true" signature="16:68" ph="{...}" />
+            <marker date="1534052611142" expanded="true" signature="45:66" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Patent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052619284" expanded="true" signature="16:65" ph="{...}" />
+            <marker date="1534052619284" expanded="true" signature="42:63" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Publication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052628069" expanded="true" signature="16:70" ph="{...}" />
+            <marker date="1534052628069" expanded="true" signature="47:68" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/CharityGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052667785" expanded="true" signature="16:71" ph="{...}" />
+            <marker date="1534052667785" expanded="true" signature="48:69" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/AcceptanceType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1534052909797" expanded="true" signature="16:115" ph="{...}" />
+            <marker date="1534052909797" expanded="true" signature="49:113" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Address.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <marker date="1534052988240" expanded="true" signature="16:467" ph="{...}" />
+            <marker date="1534052988240" expanded="true" signature="43:465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Announcement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1534053037580" expanded="true" signature="31:453" ph="{...}" />
+            <marker date="1534053037580" expanded="true" signature="62:158" ph="{...}" />
+            <marker date="1534053037580" expanded="true" signature="188:451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/AttendanceType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1534053220885" expanded="true" signature="16:128" ph="{...}" />
+            <marker date="1534053220885" expanded="true" signature="49:126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/DateTimeTimeZone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <marker date="1534053775867" expanded="true" signature="16:311" ph="{...}" />
+            <marker date="1534053775867" expanded="true" signature="23:158" ph="/// https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/resources/datetimetimezone ... " />
+            <marker date="1534053775867" expanded="true" signature="192:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/GpsLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <marker date="1534054009911" expanded="true" signature="16:193" ph="{...}" />
+            <marker date="1534054009911" expanded="true" signature="47:191" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/LocaleInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1534054190708" expanded="true" signature="16:286" ph="{...}" />
+            <marker date="1534054190708" expanded="true" signature="23:152" ph="/// https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/resources/localeinfo ... " />
+            <marker date="1534054190708" expanded="true" signature="180:284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/ProductLicense.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <marker date="1534054380281" expanded="true" signature="16:151" ph="{...}" />
+            <marker date="1534054380281" expanded="true" signature="50:149" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/PatterenedRecurrrence.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding>
+            <marker date="1534054446627" expanded="true" signature="16:198" ph="{...}" />
+            <marker date="1534054446627" expanded="true" signature="57:196" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Photo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1534054478306" expanded="true" signature="30:230" ph="{...}" />
+            <marker date="1534054478306" expanded="true" signature="55:228" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/RecurrencePattern.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <folding>
+            <marker date="1534054687081" expanded="true" signature="50:562" ph="{...}" />
+            <marker date="1534054687081" expanded="true" signature="57:193" ph="/// https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/resources/recurrencepattern ... " />
+            <marker date="1534054687081" expanded="true" signature="228:560" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/RecurrenceRange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1534054736054" expanded="true" signature="31:474" ph="{...}" />
+            <marker date="1534054736054" expanded="true" signature="38:172" ph="/// https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/resources/recurrencerange ... " />
+            <marker date="1534054736054" expanded="true" signature="205:472" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/ResourceUsageStatus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1534054766364" expanded="true" signature="16:125" ph="{...}" />
+            <marker date="1534054766364" expanded="true" signature="54:123" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/WorkspaceCapabilityType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1534055587644" expanded="true" signature="16:341" ph="{...}" />
+            <marker date="1534055587644" expanded="true" signature="58:339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/WorkspaceStatusType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1534055587648" expanded="true" signature="16:175" ph="{...}" />
+            <marker date="1534055587648" expanded="true" signature="54:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/WorkspaceStatusInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1534055634150" expanded="true" signature="16:489" ph="{...}" />
+            <marker date="1534055634150" expanded="true" signature="55:487" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/WorkspaceType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <marker date="1534055702862" expanded="true" signature="16:753" ph="{...}" />
+            <marker date="1534055702862" expanded="true" signature="23:358" ph="/* 1. Touchdown spaces ... */" />
+            <marker date="1534055702862" expanded="true" signature="389:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Building.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding>
+            <marker date="1534056017869" expanded="true" signature="6:47" ph="..." />
+            <marker date="1534056017869" expanded="true" signature="65:438" ph="{...}" />
+            <marker date="1534056017869" expanded="true" signature="93:436" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Calendar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <folding>
+            <marker date="1534056017867" expanded="true" signature="55:426" ph="{...}" />
+            <marker date="1534056017867" expanded="true" signature="83:424" ph="{...}" />
+            <marker date="1534056017867" expanded="true" signature="107:242" ph="/// https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/resources/calendar ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/AutomaticRepliesSetting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1534053324707" expanded="true" signature="31:481" ph="{...}" />
+            <marker date="1534053324707" expanded="true" signature="74:479" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/CommunicationInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <folding>
+            <marker date="1534056017872" expanded="true" signature="51:370" ph="{...}" />
+            <marker date="1534056017872" expanded="true" signature="88:368" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/ContactBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1534052518065" expanded="true" signature="16:70" ph="{...}" />
+            <marker date="1534052518065" expanded="true" signature="47:68" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/MailboxSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1534054228248" expanded="true" signature="16:240" ph="{...}" />
+            <marker date="1534054228248" expanded="true" signature="51:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Floor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1534056068704" expanded="true" signature="6:47" ph="..." />
+            <marker date="1534056068704" expanded="true" signature="69:288" ph="{...}" />
+            <marker date="1534056068704" expanded="true" signature="94:286" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <marker date="1534056293298" expanded="false" signature="6:47" ph="..." />
+            <marker date="1534056293298" expanded="true" signature="64:2091" ph="{...}" />
+            <marker date="1534056293298" expanded="true" signature="90:2089" ph="{...}" />
+            <marker date="1534056293298" expanded="true" signature="1250:1356" ph="/// Instant message addresses with their respective providers ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Organization.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1534056293300" expanded="true" signature="50:501" ph="{...}" />
+            <marker date="1534056293300" expanded="true" signature="82:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/IResource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <marker date="1534056293292" expanded="true" signature="6:47" ph="..." />
+            <marker date="1534056293292" expanded="true" signature="69:905" ph="{...}" />
+            <marker date="1534056293292" expanded="true" signature="102:903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Event.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <marker date="1534056293296" expanded="true" signature="6:47" ph="..." />
+            <marker date="1534056293296" expanded="true" signature="64:2385" ph="{...}" />
+            <marker date="1534056293296" expanded="true" signature="98:164" ph="{...}" />
+            <marker date="1534056293296" expanded="true" signature="197:289" ph="{...}" />
+            <marker date="1534056293296" expanded="true" signature="316:404" ph="{...}" />
+            <marker date="1534056293296" expanded="true" signature="409:533" ph="/// https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/resources/event ... " />
+            <marker date="1534056293296" expanded="true" signature="556:2383" ph="{...}" />
+            <marker date="1534056293296" expanded="true" signature="1113:1180" ph="/// Low, Normal, High. ... " />
+            <marker date="1534056293296" expanded="true" signature="1414:1503" ph="/// Normal, Personal, Private, Confidential. ... " />
+            <marker date="1534056293296" expanded="true" signature="1570:1777" ph="/// The event type: SingleInstance = 0, Occurrence = 1, Exception = 2, SeriesMaster = 3. Possible values are: Sin ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Workspace.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="66" column="33" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+          <folding>
+            <marker date="1534056293302" expanded="false" signature="6:48" ph="..." />
+            <marker date="1534056293302" expanded="true" signature="66:2760" ph="{...}" />
+            <marker date="1534056293302" expanded="true" signature="104:515" ph="{...}" />
+            <marker date="1534056293302" expanded="true" signature="119:186" ph="/// Only for the Admin ... " />
+            <marker date="1534056293302" expanded="true" signature="216:273" ph="/// Everyone ... " />
+            <marker date="1534056293302" expanded="true" signature="302:376" ph="/// Limited to specific roles ... " />
+            <marker date="1534056293302" expanded="true" signature="411:485" ph="/// LImited to specific users ... " />
+            <marker date="1534056293302" expanded="true" signature="556:2758" ph="{...}" />
+            <marker date="1534056293302" expanded="true" signature="1663:1798" ph="/// https://lasithapetthawadu.wordpress.com/2014/02/24/using-vector-svg-graphics-in-c-net/ ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midorg/Attendee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <marker date="1534056293294" expanded="true" signature="31:393" ph="{...}" />
+            <marker date="1534056293294" expanded="true" signature="59:391" ph="{...}" />
           </folding>
         </state>
       </provider>
