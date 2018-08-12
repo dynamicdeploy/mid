@@ -57,6 +57,34 @@
         <e p="WorkspaceType.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="RandomAttributes" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GuidAttribute.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="RandomAttributes.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RandomAddressStringAttribute.cs" t="Include" />
+        <e p="RandomAttributes.csproj" t="IncludeRecursive" />
+        <e p="RandomBusinessName.cs" t="Include" />
+        <e p="RandomCityAttribute.cs" t="Include" />
+        <e p="RandomCountryAttribute.cs" t="Include" />
+        <e p="RandomDateTimeAttribute.cs" t="Include" />
+        <e p="RandomDepartmentAttribute.cs" t="Include" />
+        <e p="RandomFirstNameAttribute.cs" t="Include" />
+        <e p="RandomInt16Attribute.cs" t="Include" />
+        <e p="RandomInt32Attribute.cs" t="Include" />
+        <e p="RandomInt64Attribute.cs" t="Include" />
+        <e p="RandomLastNameAttribute.cs" t="Include" />
+        <e p="RandomLatitudeAttribute.cs" t="Include" />
+        <e p="RandomLongitudeAttribute.cs" t="Include" />
+        <e p="RandomStringAttribute.cs" t="Include" />
+        <e p="RandomTimezoneAttribute.cs" t="Include" />
+        <e p="RandomZipCodeAttribute.cs" t="Include" />
+      </e>
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_mid.2018398751.00" t="ExcludeRecursive" />
   </component>

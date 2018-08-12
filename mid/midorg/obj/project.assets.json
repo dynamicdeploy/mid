@@ -34,18 +34,6 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
-      },
-      "RandomNameGeneratorLibrary/1.2.2": {
-        "type": "package",
-        "dependencies": {
-          "NETStandard.Library": "1.6.0"
-        },
-        "compile": {
-          "lib/netstandard1.6/RandomNameGeneratorLibrary.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.6/RandomNameGeneratorLibrary.dll": {}
-        }
       }
     }
   },
@@ -217,24 +205,12 @@
         "newtonsoft.json.11.0.2.nupkg.sha512",
         "newtonsoft.json.nuspec"
       ]
-    },
-    "RandomNameGeneratorLibrary/1.2.2": {
-      "sha512": "Sz9eseIDKZ99yopg4TEAGPVIoGOKWYsWDHIfGQENXlOJYBoIsL68rqe9jrc9yP+/dOYH5RaCag6d8ykaqsbFFw==",
-      "type": "package",
-      "path": "randomnamegeneratorlibrary/1.2.2",
-      "files": [
-        "lib/net40/RandomNameGeneratorLibrary.dll",
-        "lib/netstandard1.6/RandomNameGeneratorLibrary.dll",
-        "randomnamegeneratorlibrary.1.2.2.nupkg.sha512",
-        "randomnamegeneratorlibrary.nuspec"
-      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "Newtonsoft.Json >= 11.0.2",
-      "RandomNameGeneratorLibrary >= 1.2.2"
+      "Newtonsoft.Json >= 11.0.2"
     ]
   },
   "packageFolders": {
@@ -285,10 +261,6 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[11.0.2, )"
-          },
-          "RandomNameGeneratorLibrary": {
-            "target": "Package",
-            "version": "[1.2.2, )"
           }
         },
         "imports": [

@@ -31,6 +31,10 @@
           "target": "Package",
           "version": "[2.0.3, )",
           "autoReferenced": true
+        },
+        "RandomNameGeneratorLibrary": {
+          "target": "Package",
+          "version": "[1.2.2, )"
         }
       },
       "imports": [

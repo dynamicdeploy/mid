@@ -25,6 +25,18 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "RandomNameGeneratorLibrary/1.2.2": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.0"
+        },
+        "compile": {
+          "lib/netstandard1.6/RandomNameGeneratorLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.6/RandomNameGeneratorLibrary.dll": {}
+        }
       }
     }
   },
@@ -168,11 +180,23 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "RandomNameGeneratorLibrary/1.2.2": {
+      "sha512": "Sz9eseIDKZ99yopg4TEAGPVIoGOKWYsWDHIfGQENXlOJYBoIsL68rqe9jrc9yP+/dOYH5RaCag6d8ykaqsbFFw==",
+      "type": "package",
+      "path": "randomnamegeneratorlibrary/1.2.2",
+      "files": [
+        "lib/net40/RandomNameGeneratorLibrary.dll",
+        "lib/netstandard1.6/RandomNameGeneratorLibrary.dll",
+        "randomnamegeneratorlibrary.1.2.2.nupkg.sha512",
+        "randomnamegeneratorlibrary.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "RandomNameGeneratorLibrary >= 1.2.2"
     ]
   },
   "packageFolders": {
@@ -219,6 +243,10 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
+          },
+          "RandomNameGeneratorLibrary": {
+            "target": "Package",
+            "version": "[1.2.2, )"
           }
         },
         "imports": [
