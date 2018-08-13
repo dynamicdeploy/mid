@@ -72,6 +72,9 @@
         <e p="RandomBusinessName.cs" t="Include" />
         <e p="RandomCityAttribute.cs" t="Include" />
         <e p="RandomCountryAttribute.cs" t="Include" />
+        <e p="RandomDataSources" t="Include">
+          <e p="randomresources.txt" t="Include" />
+        </e>
         <e p="RandomDateTimeAttribute.cs" t="Include" />
         <e p="RandomDepartmentAttribute.cs" t="Include" />
         <e p="RandomFirstNameAttribute.cs" t="Include" />
@@ -81,6 +84,7 @@
         <e p="RandomLastNameAttribute.cs" t="Include" />
         <e p="RandomLatitudeAttribute.cs" t="Include" />
         <e p="RandomLongitudeAttribute.cs" t="Include" />
+        <e p="RandomStateGeneratorAttribute.cs" t="Include" />
         <e p="RandomStringAttribute.cs" t="Include" />
         <e p="RandomTimezoneAttribute.cs" t="Include" />
         <e p="RandomZipCodeAttribute.cs" t="Include" />
